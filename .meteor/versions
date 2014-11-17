@@ -43,14 +43,13 @@ meteor-platform@1.2.0
 meteor@1.1.3
 minifiers@1.1.2
 minimongo@1.0.5
-mizzao:bootstrap-3@3.3.0
 mobile-status-bar@1.0.1
 mongo@1.0.8
 nemo64:bootstrap-data@3.3.0_1
 nemo64:bootstrap@3.3.0_1
 observe-sequence@1.0.3
 ordered-dict@1.0.1
-pcuci:bootcards@1.0.0_2
+pcuci:bootcards@1.0.0_3
 random@1.0.1
 reactive-dict@1.0.4
 reactive-var@1.0.3
